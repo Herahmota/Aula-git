@@ -1,1 +1,2 @@
-"pegando o bicho ta " "1 = 2"
+"pegando o bicho ta " "alguem tenha piedade de nos" "a loucura bate a sua porta"
+
